@@ -10,5 +10,7 @@ public class Main {
         System.out.println("Hallo Sugar Daddy! Big Sus");
 
         System.out.println("ITP ist sehr Zeitintensiv!");
+
+        System.out.println("Ich grüße meine Oma");
     }
 }
