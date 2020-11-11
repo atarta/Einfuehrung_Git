@@ -6,5 +6,7 @@ public class Main {
 
 
         System.out.println("I like 187");
+
+        System.out.println("Hallo Sugar Daddy! Big Sus");
     }
 }
